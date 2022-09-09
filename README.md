@@ -10,7 +10,7 @@ Please feel free to contribute by creating a Pull Request. 🚀
   - [Contents](#contents)
   - [APIs and SDKs](#apis-and-sdks)
   - [Code Samples](#code-samples)
-  - [Community projects](#community-projects)
+  - [Community projects (Inspiration)](#community-projects-inspiration)
   - [Learning Materials](#learning-materials)
   - [Other Resources](#other-resources)
   - [License](#license)
@@ -28,11 +28,12 @@ Please feel free to contribute by creating a Pull Request. 🚀
 * [Next.js starter with OpenAI's GTP-3 API](https://github.com/openai/openai-quickstart-node)
 * [Next.js starter with Replicate's Prediction API](https://github.com/replicate/getting-started-nextjs)
 
-## Community projects
+## Community projects (Inspiration)
+* [English to RegEx](https://www.autoregex.xyz/) - Quikly generate regex froom English words.
 * [AvatarAI](https://avatarai.me/) - Create your own
 AI-generated avatars
 * [ProfilePictureAI](https://www.profilepicture.ai/) - Create your perfect profile picture with AI.
-* 
+* [Build with  GPT-3](https://www.buildgpt3.com/) - Community submitted projects built using GPT-3
 
 ## Learning Materials
 * [Build your own AI writing assistant with GPT-3](https://buildspace.so/p/build-ai-writing-assistant-gpt3) - _buildspace_
