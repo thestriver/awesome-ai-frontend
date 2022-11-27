@@ -1,9 +1,7 @@
 # Awesome AI For Front-end Developers
 A curated list of AI resources (APIs and SDKs, Code samples, Community projects, Learning Materials) for front-end developers who want to build AI-powered apps.
 
-
 Please feel free to contribute by creating a Pull Request. 🚀
-
 
 ## Contents
 - [Awesome AI For Front-end Developers](#awesome-ai-for-front-end-developers)
@@ -13,7 +11,7 @@ Please feel free to contribute by creating a Pull Request. 🚀
   - [Community projects (Inspiration)](#community-projects-inspiration)
   - [Learning Materials](#learning-materials)
   - [Other Resources](#other-resources)
-  - [License](#license)
+
 
 
 
@@ -62,7 +60,6 @@ Build your own AI writing assistant app and chrome extension w/ GPT-3 with Next.
 <br />
 <br />
 
-## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
