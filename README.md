@@ -49,7 +49,9 @@ Build your own AI writing assistant app and chrome extension w/ GPT-3 with Next.
 
 
 
-* [Build a Discord bot that generates Images](https://replicate.com/docs/get-started/discord-bot) - Build and deploy a Discord chat bot application that uses Stable Diffusion via Replicate to generate images from text prompts
+* [Build a Discord bot that generates Images](https://replicate.com/docs/get-started/discord-bot) - Build and deploy a Discord chat bot application that uses Stable Diffusion via Replicate to generate images from text prompts.
+
+
 *[How to use GPT-3 tutorial](https://lablab.ai/t/gpt3) - Build your own GPT-3 Powered application using NextJS and Replit in 20 minutes
 
 ## Other Resources
