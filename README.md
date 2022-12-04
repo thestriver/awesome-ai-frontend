@@ -17,6 +17,9 @@ Please feel free to contribute by creating a Pull Request. 🚀
 
 
 ## APIs and SDKs
+#### Text based
+
+#### Image, Video, Art based
 * [OpenAI API suite](https://beta.openai.com/docs/libraries/node-js-library) - npm library for interacting with OpenAI's AI models like GPT-3, Codex and DALL·E.
 * [Replicate's stable-diffusion API](https://replicate.com/stability-ai/stable-diffusion/api) - Replicate's API for generating photo-realistic images from text propmts.
 
