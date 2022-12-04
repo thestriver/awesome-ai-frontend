@@ -17,10 +17,13 @@ Please feel free to contribute by creating a Pull Request. 🚀
 
 
 ## APIs and SDKs
-#### Text based
-
-#### Image, Video, Art based
 * [OpenAI API suite](https://beta.openai.com/docs/libraries/node-js-library) - npm library for interacting with OpenAI's AI models like GPT-3, Codex and DALL·E.
+#### Text based
+* [Google Cloud Speech-to-Text SDK](https://cloud.google.com/speech-to-text/docs/transcribe-client-libraries#client-libraries-install-nodejs) - Transcribe speech to text using the Google Cloud Speech-to-Text API
+#### Image, Video, Art based
+
+#### Speech based
+
 * [Replicate's stable-diffusion API](https://replicate.com/stability-ai/stable-diffusion/api) - Replicate's API for generating photo-realistic images from text propmts.
 
 * [Replicate's openai/whisper API](https://replicate.com/openai/whisper/api) - Replicate's API for transcribing speech with openai/whisper.
