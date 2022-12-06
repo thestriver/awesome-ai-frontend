@@ -1,11 +1,9 @@
-# Awesome AI For Front-end Developers
-A curated list of AI resources (APIs and SDKs, Code samples, Community projects, Learning Materials) for front-end developers who want to build AI-powered apps.
+# Awesome AI For Front-end Developers ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+> A curated list of AI resources (APIs and SDKs, Code samples, Community projects, Learning Materials) for front-end developers who want to build AI-powered apps.
 
 Please feel free to contribute by creating a Pull Request. 🚀
 
 ## Contents
-- [Awesome AI For Front-end Developers](#awesome-ai-for-front-end-developers)
-  - [Contents](#contents)
   - [APIs and SDKs](#apis-and-sdks)
   - [Code Samples](#code-samples)
   - [Community projects (Inspiration)](#community-projects-inspiration)
