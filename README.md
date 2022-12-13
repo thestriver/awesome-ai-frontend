@@ -16,8 +16,18 @@ Please feel free to contribute by creating a Pull Request. 🚀
 
 ## APIs and SDKs
 * [OpenAI API suite](https://beta.openai.com/docs/libraries/node-js-library) - npm library for interacting with OpenAI's AI models like GPT-3, Codex and DALL·E.
+
 #### Text based
 * [Google Cloud Speech-to-Text SDK](https://cloud.google.com/speech-to-text/docs/transcribe-client-libraries#client-libraries-install-nodejs) - Transcribe speech to text using the Google Cloud Speech-to-Text API
+* [Microsoft Text Analytics](https://azure.microsoft.com/en-ca/products/cognitive-services/text-analytics/#overview)- A collection of Cognitive Service Language capabilities that analyze, classify and comprehend text (emotions and all) within documents.
+
+#### Image to Text
+* [Google Cloud OCR](https://cloud.google.com/vision/docs/ocr) - Recognize text in Images API
+* [Amazon Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html) - Detecting text in an image SDK
+* [OCR.Space](https://ocr.space/OCRAPI) - Images and PDFs for text OCR(Object Character Recognition) API 
+
+
+
 #### Image, Video, Art based
 
 #### Speech based
