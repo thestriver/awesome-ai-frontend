@@ -25,6 +25,7 @@ Please feel free to contribute by creating a Pull Request. 🚀
 * [Google Cloud OCR](https://cloud.google.com/vision/docs/ocr) - Recognize text in Images API
 * [Amazon Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html) - Detecting text in an image SDK
 * [OCR.Space](https://ocr.space/OCRAPI) - Images and PDFs for text OCR(Object Character Recognition) API 
+* [Clarifai Visual Text Recognition](https://docs.clarifai.com/api-guide/workflows/common-workflows/visual-text-recognition-walkthrough/) - Visual Text Recognition API
 
 
 
