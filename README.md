@@ -27,10 +27,6 @@ Please feel free to contribute by creating a Pull Request. 🚀
 * [OCR.Space](https://ocr.space/OCRAPI) - Images and PDFs for text OCR(Object Character Recognition) API 
 * [Clarifai Visual Text Recognition](https://docs.clarifai.com/api-guide/workflows/common-workflows/visual-text-recognition-walkthrough/) - Visual Text Recognition API
 
-
-
-#### Image, Video, Art based
-
 #### Speech based
 
 * [Replicate's stable-diffusion API](https://replicate.com/stability-ai/stable-diffusion/api) - Replicate's API for generating photo-realistic images from text propmts.
