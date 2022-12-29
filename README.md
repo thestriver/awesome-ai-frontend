@@ -56,14 +56,11 @@ Build your own AI writing assistant app and chrome extension w/ GPT-3 with Next.
 
 * [Stable Diffusion on your Mac](https://replicate.com/blog/run-stable-diffusion-on-m1-mac) - Run Stable Diffusion on your M1 Mac’s GPU
 
-
-
-
-
 * [Build a Discord bot that generates Images](https://replicate.com/docs/get-started/discord-bot) - Build and deploy a Discord chat bot application that uses Stable Diffusion via Replicate to generate images from text prompts.
 
-
 * [How to use GPT-3 tutorial](https://lablab.ai/t/gpt3) - Build your own GPT-3 Powered application using NextJS and Replit in 20 minutes
+
+* [A Comprehensive Front-end Developer Guide to Building AI apps in 2023](https://frontendcode.hashnode.dev/a-comprehensive-front-end-developer-guide-to-building-ai-apps-in-2023) - Building AI-powered apps by integrating leading AI tools like Microsoft Cognitive Services, OpenAI GPT-3, and Stability AI's Stable Diffusion Model
 
 ## Other Resources
 * [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) - Official Research on DreamBooth Text-to-Image Diffusion Model. 
