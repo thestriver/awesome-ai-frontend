@@ -21,17 +21,20 @@ Please feel free to contribute by creating a Pull Request. 🚀
 * [Google Cloud Speech-to-Text SDK](https://cloud.google.com/speech-to-text/docs/transcribe-client-libraries#client-libraries-install-nodejs) - Transcribe speech to text using the Google Cloud Speech-to-Text API
 * [Microsoft Text Analytics](https://azure.microsoft.com/en-ca/products/cognitive-services/text-analytics/#overview)- A collection of Cognitive Service Language capabilities that analyze, classify and comprehend text (emotions and all) within documents.
 
+* [Replicate's stable-diffusion API](https://replicate.com/stability-ai/stable-diffusion/api) - Replicate's API for generating photo-realistic images from text propmts.
+
 #### Image to Text
 * [Google Cloud OCR](https://cloud.google.com/vision/docs/ocr) - Recognize text in Images API
 * [Amazon Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html) - Detecting text in an image SDK
 * [OCR.Space](https://ocr.space/OCRAPI) - Images and PDFs for text OCR(Object Character Recognition) API 
 * [Clarifai Visual Text Recognition](https://docs.clarifai.com/api-guide/workflows/common-workflows/visual-text-recognition-walkthrough/) - Visual Text Recognition API
 
-#### Speech based
 
-* [Replicate's stable-diffusion API](https://replicate.com/stability-ai/stable-diffusion/api) - Replicate's API for generating photo-realistic images from text propmts.
+#### Speech (Conversational) based
 
 * [Replicate's openai/whisper API](https://replicate.com/openai/whisper/api) - Replicate's API for transcribing speech with openai/whisper.
+
+* [Microsoft Bot Framework](https://github.com/microsoft/botframework-sdk) - Microsoft Azure's Bot Framework for conversation AI experiences.
 
 ## Code Samples
 * [Next.js starter with OpenAI's GTP-3 API](https://github.com/openai/openai-quickstart-node)
