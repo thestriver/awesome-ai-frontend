@@ -65,6 +65,8 @@ Build your own AI writing assistant app and chrome extension w/ GPT-3 with Next.
 
 * [A Comprehensive Front-end Developer Guide to Building AI apps in 2023](https://frontendcode.hashnode.dev/a-comprehensive-front-end-developer-guide-to-building-ai-apps-in-2023) - Building AI-powered apps by integrating leading AI tools like Microsoft Cognitive Services, OpenAI GPT-3, and Stability AI's Stable Diffusion Model
 
+* [Zero to Hero: Your Guide to Getting Skilled on Azure AI](https://azure.microsoft.com/en-us/resources/azure-ai-learning-journey/) - A 4 weeks (30 days) guide to achieving artificial intelligence expertise on Azure
+
 ## Other Resources
 * [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) - Official Research on DreamBooth Text-to-Image Diffusion Model. 
 
