@@ -48,6 +48,7 @@ Please feel free to contribute by creating a Pull Request. 🚀
 AI-generated avatars
 * [ProfilePictureAI](https://www.profilepicture.ai/) - Create your perfect profile picture with AI.
 * [Build with  GPT-3](https://www.buildgpt3.com/) - Community submitted projects built using GPT-3
+* [Face Photo Restorer](https://github.com/Nutlope/restorePhotos) - Restore old and blurry face photos with AI by [@nutlope](https://github.com/Nutlope)
 
 ## Learning Materials
 * [Build your own AI writing assistant with GPT-3](https://buildspace.so/p/build-ai-writing-assistant-gpt3) - _buildspace_
