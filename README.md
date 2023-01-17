@@ -40,6 +40,8 @@ Please feel free to contribute by creating a Pull Request. 🚀
 * [Next.js starter with OpenAI's GTP-3 API](https://github.com/openai/openai-quickstart-node)
 * [Next.js starter with Replicate's Prediction API](https://github.com/replicate/getting-started-nextjs)
 
+* [Vercel's Pre-built Next.js AI templates ](https://vercel.com/templates?framework=next.js&type=ai)
+
 ## Community projects (Inspiration)
 * [English to RegEx](https://www.autoregex.xyz/) - Quikly generate regex froom English words.
 * [AvatarAI](https://avatarai.me/) - Create your own
