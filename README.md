@@ -32,7 +32,9 @@ Please feel free to contribute by creating a Pull Request. 🚀
 
 #### Speech (Conversational) based
 
-* [Replicate's openai/whisper API](https://replicate.com/openai/whisper/api) - Replicate's API for transcribing speech with openai/whisper.
+* [OpenAI Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis?utm_medium=email&_hsmi=248356722&utm_content=248356722&utm_source=hs_email#:~:text=contact%20us.-,Whisper%20API,-Whisper%2C%20the%20speech) - Transcribe languages and speech into English text.
+
+* [Replicate's openai/whisper API](https://replicate.com/openai/whisper/api) - Replicate's API for transcribing speech with openai's whisper.
 
 * [Microsoft Bot Framework](https://github.com/microsoft/botframework-sdk) - Microsoft Azure's Bot Framework for conversation AI experiences.
 
