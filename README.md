@@ -21,6 +21,8 @@ Please feel free to contribute by creating a Pull Request. 🚀
 * [Google Cloud Speech-to-Text SDK](https://cloud.google.com/speech-to-text/docs/transcribe-client-libraries#client-libraries-install-nodejs) - Transcribe speech to text using the Google Cloud Speech-to-Text API
 * [Microsoft Text Analytics](https://azure.microsoft.com/en-ca/products/cognitive-services/text-analytics/#overview)- A collection of Cognitive Service Language capabilities that analyze, classify and comprehend text (emotions and all) within documents.
 
+* [Visual ChatGPT](https://huggingface.co/spaces/microsoft/visual_chatgpt) - An huggingface implementation of microsoft/visual_chatgpt. 
+
 * [Replicate's stable-diffusion API](https://replicate.com/stability-ai/stable-diffusion/api) - Replicate's API for generating photo-realistic images from text propmts.
 
 #### Image to Text
