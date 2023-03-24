@@ -40,6 +40,8 @@ Please feel free to contribute by creating a Pull Request. 🚀
 
 * [Microsoft Bot Framework](https://github.com/microsoft/botframework-sdk) - Microsoft Azure's Bot Framework for conversation AI experiences.
 
+* [ElevenLabs API][https://api.elevenlabs.io/docs]: Lifelife text to speech AI conversion.
+
 ## Code Samples
 * [Next.js starter with OpenAI's GTP-3 API](https://github.com/openai/openai-quickstart-node)
 * [Next.js starter with Replicate's Prediction API](https://github.com/replicate/getting-started-nextjs)
