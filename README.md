@@ -30,6 +30,7 @@ Please feel free to contribute by creating a Pull Request. 🚀
 * [Amazon Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html) - Detecting text in an image SDK
 * [OCR.Space](https://ocr.space/OCRAPI) - Images and PDFs for text OCR(Object Character Recognition) API 
 * [Clarifai Visual Text Recognition](https://docs.clarifai.com/api-guide/workflows/common-workflows/visual-text-recognition-walkthrough/) - Visual Text Recognition API
+* [Azure Cognitive Services for Vision](https://portal.vision.cognitive.azure.com/gallery/imageanalysis) - Microsoft's suite of Image (OCR) analysis tools.
 
 
 #### Speech (Conversational) based
